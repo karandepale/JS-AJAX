@@ -1,0 +1,31 @@
+{
+    "Employee": [
+      {
+        "id": 1,
+        "firstName": "Karan Eng",
+        "lastName": "Depale",
+        "age": 23,
+        "position": "Software Engineer",
+        "department": "Engineering",
+        "salary": 5000
+      },
+      {
+        "id": 2,
+        "firstName": "Manoj",
+        "lastName": "MAsre",
+        "age": 23,
+        "position": "Advocate",
+        "department": "Civil",
+        "salary": 5000
+      },
+      {
+        "id": 3,
+        "firstName": "Atul",
+        "lastName": "Bachhane",
+        "age": 23,
+        "position": "Software Engineer",
+        "department": "Engineering",
+        "salary": 5000
+      }
+    ]
+  }

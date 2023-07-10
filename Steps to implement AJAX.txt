@@ -1,0 +1,19 @@
+STEPS TO CREATE A URL OF JSON OBJECT :-
+Step 01:- Create a json file with some json objects.
+Step 02:- install the json server using 
+          npm install -g json-server
+Step 03:- Create a url/endpoint of json data using 
+          json-server --watch filename
+
+
+STEPS TO IMPLEMENT AJAX IN OUR CODE:-
+Step 01:- create a java script file.
+step 02:- install the "xmlhttprequest" package 
+          npm i xmlhttprequest
+step 03:- import this package in js file using require method.
+step 04:- create a object of "XMLHttpRequest" class.
+step 05:- With the help of this objec call a eventlistener whose name is "onreadystatechange"
+step 06:- open a request using open method.
+step 07:- send a request using using send method.
+
+--------------------- Thank you karan ---------------
